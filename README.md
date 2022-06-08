@@ -1,5 +1,11 @@
 ### Olá, meu nome é Fran 👋
 
+<div align="center">
+  <a href="https://github.com/fransilva0302">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edilsonjunior2022&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransilva0302&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+
 <!--
 **fransilva0302/fransilva0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
