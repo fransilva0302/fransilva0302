@@ -1,4 +1,5 @@
-### Olá, meu nome é Fran 👋
+### Olá, meu nome é Fran!
+E eu gosto de programação!!
 
 <div align="center">
   <a href="https://github.com/fransilva0302">
